@@ -47,7 +47,9 @@ public class LootBox_Done : MonoBehaviour
             total += m_Loots[i]._probability;
         }
         Debug.Log("total:" + total);
-        float randomPoint = Random.value * total;
+        var p = Random.value;
+        Debug.Log("RandomValue " + p);
+        float randomPoint = p * total;
         Debug.Log("randomPoint" + randomPoint);
 
         for (int i = 0; i < m_Loots.Length; i++)
@@ -93,18 +95,14 @@ public class LootBox_Done : MonoBehaviour
     public void ResetBox()
     {
         m_Aniamtor.SetBool("Open", false);
-        m_LootObjects[m_CurrentSelectedIndex].SetActive(false);
+
         m_ItemInfo.SetActive(false);
+    }
+
+    public void HideLoot()
+    {
+        m_LootObjects[m_CurrentSelectedIndex].SetActive(false);
     }
 }
 
-[System.Serializable]
-public class Loot
-{
-    [Header("物品設定")]
-    public int _probability;
-    public GameObject _prefab;
-    [Header("物品資料")]
-    public string _name;
-    public string _describe;
-}
+
