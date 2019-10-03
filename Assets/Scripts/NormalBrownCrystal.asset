@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0218e280c09e20f4c9071a8c42fcf4ca, type: 3}
   m_Name: NormalBrownCrystal
   m_EditorClassIdentifier: 
-  _probability: 0
-  _prefab: {fileID: 0}
-  _name: 
-  _describe: 
+  _probability: 50
+  _prefab: {fileID: 1372348412409052, guid: 8c8cd0039f694a649834b4c1735df14a, type: 2}
+  _name: "\u666E\u901A\u68D5\u8272\u6C34\u6676"
+  _describe: "\u666E\u901A\u5408\u6210\u7684\u6C34\u6676,\u767C\u51FA\u68D5\u8272\u5149\u6FA4"
