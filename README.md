@@ -1,9 +1,8 @@
 # ISUTeaching2019_10_2  
-# Unity版本: 2018.2.2
 
 ![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Picture/Banner.png)
 ## 參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
-## [下載Unity專案](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.2.zip)  
+## [下載Unity專案(需要2018.2.2f1版Unity)](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.2.zip)  
 ## [下載Unity專案(HDRP版本, 需要2019.2.7f2版Unity)](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v2.0(HDRP%E7%89%88).zip)  
 
 
