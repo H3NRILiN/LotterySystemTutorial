@@ -14,7 +14,6 @@ public class LootBox_Done : MonoBehaviour
     [SerializeField] GameObject m_ItemInfo;
     [SerializeField] Text m_ItemNameText;
     [SerializeField] Text m_ItemDescribeText;
-    [SerializeField] LootDropping m_LootDropper;
 
     GameObject[] m_LootObjects;
 
@@ -48,9 +47,7 @@ public class LootBox_Done : MonoBehaviour
             total += m_Loots[i]._probability;
         }
         Debug.Log("total:" + total);
-        var p = Random.value;
-        Debug.Log("RandomValue " + p);
-        float randomPoint = p * total;
+        float randomPoint = Random.value * total;
         Debug.Log("randomPoint" + randomPoint);
 
         for (int i = 0; i < m_Loots.Length; i++)
@@ -96,19 +93,18 @@ public class LootBox_Done : MonoBehaviour
     public void ResetBox()
     {
         m_Aniamtor.SetBool("Open", false);
-
-        m_ItemInfo.SetActive(false);
-    }
-
-    public void HideLoot()
-    {
         m_LootObjects[m_CurrentSelectedIndex].SetActive(false);
-    }
-
-    public void DropLoot()
-    {
-        m_LootDropper.SpawnObject(m_Loots[m_CurrentSelectedIndex]._prefab);
+        m_ItemInfo.SetActive(false);
     }
 }
 
-
+[System.Serializable]
+public class Loot
+{
+    [Header("物品設定")]
+    public int _probability;
+    public GameObject _prefab;
+    [Header("物品資料")]
+    public string _name;
+    public string _describe;
+}
