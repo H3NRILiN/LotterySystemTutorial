@@ -42,8 +42,9 @@
 
 #### 根據Unity官方的手冊講解  
 可以假設將不同物件在紙條上分成數個分段,分段的長度代表被抽中的比例或權重  
-飛鏢就是隨機獲得的值  
-![官方提供的示意圖](https://docs.unity3d.com/uploads/Main/ProbStrip.png)  
+飛鏢就是隨機抽取的值  
+###### 官方提供的示意圖
+![](https://docs.unity3d.com/uploads/Main/ProbStrip.png)  
 
 
 若要進行隨機抽取 
