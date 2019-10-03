@@ -3,7 +3,7 @@
 
 ![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Picture/Banner.png)
 ## 參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
-## [下載Unity專案](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.1.zip)  
+## [下載Unity專案](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.2.zip)  
 
 
 
