@@ -1,27 +1,28 @@
 # ISUTeaching2019_10_2
  
-參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
-[下載](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.0.zip)
-
+## 參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
+## [下載Unity專案](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.0.zip)  
+ 
+ 
+ 
+ 
 # What: 什麼是抽獎系統?
-抽獎系統會在一堆物件中隨機抽取道具,根據分配的權重,權重愈重的抽到的機率愈高
-  
-  
-  
+抽獎系統會在一堆物件中隨機抽取道具,根據分配的權重,權重愈重的抽到的機率愈高  
+ 
 # Why: 為甚麼用抽獎系統?
 舉例來說
 就跟在遊戲中的獎勵或是花錢抽箱的機制一樣
-或是怪物掉寶也會用到抽獎系統
-  
-  
-  
+或是怪物掉寶也會用到抽獎系統  
+ 
 # How: 抽獎的原理為何? 如何運用到程式?
 這裡有使用到所謂的機率  
 計算方式為`事件數量/樣本空間數量`  
-舉例: `100個數字中抽1個數字, 抽到小於等於10的數字`的機率為何?  
+舉例: `100個數字中隨機抽1個數字, 抽到小於等於10的數字`的機率為何?  
 這裡的樣本空間就是`{1,2,3,...,98,99,100}`這100個數字  
 而事件則是`{1,2,3,...,9,10}`這10個數字  
 `所以抽到小於等於10的機率為10/100`, 也可以說是10%  
+
+
 
 
 
