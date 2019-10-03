@@ -1,6 +1,7 @@
 # ISUTeaching2019_10_2
  
-參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)
+參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
+[下載](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.0.zip)
 
 # What: 什麼是抽獎系統?
 抽獎系統會在一堆物件中隨機抽取道具,根據分配的權重,權重愈重的抽到的機率愈高
