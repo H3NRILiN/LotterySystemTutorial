@@ -29,6 +29,8 @@
 我們可以假設抽獎的手就是[Random](https://docs.unity3d.com/ScriptReference/Random.Range.html)  
 接著在100中去隨機抽取一個數字  
 只要任何數字小於等於10,就表示抽中這個物件  
+
+![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Random1.png)
 ### 進入今天主題: 
 若今天有多個物品要被抽中,每個物品的機率都不同  
 那麼要如何去執行這個邏輯
