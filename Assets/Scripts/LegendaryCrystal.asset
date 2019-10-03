@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0218e280c09e20f4c9071a8c42fcf4ca, type: 3}
+  m_Name: LegendaryCrystal
+  m_EditorClassIdentifier: 
+  _probability: 10
+  _prefab: {fileID: 1159741985213350, guid: 2b2b1a1aae676d74a979e0f0e4df1daa, type: 2}
+  _name: "\u50B3\u5947\u6C34\u6676"
+  _describe: "\u4E00\u7A2E\u6975\u5EA6\u7A00\u6709\u7684\u6C34\u6676,\u70BA\u975E\u5E38\u9AD8\u7D1A\u7684\u6750\u6599,\u7528\u65BC\u50B3\u5947\u5408\u6210"

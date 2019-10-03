@@ -5,7 +5,6 @@
         "m_Name": "",
         "m_EditorClassIdentifier": "Unity.Formats.Fbx.Editor:UnityEditor.Formats.Fbx.Exporter:ExportSettings",
         "Verbose": false,
-        "autoUpdaterEnabled": true,
         "launchAfterInstallation": true,
         "HideSendToUnityMenu": true,
         "BakeAnimation": true,
