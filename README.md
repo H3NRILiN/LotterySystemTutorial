@@ -34,4 +34,11 @@
 ![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Picture/Random1.png)
 ### 進入今天主題: 
 若今天有多個物品要被抽中,每個物品的機率都不同  
-那麼要如何去執行這個邏輯
+那麼要如何去執行這個邏輯?  
+
+根據Unity官方的手冊講解  
+可以假設將不同物件在紙上分成數個分段,分段的長度代表被抽中的比例  
+![](https://docs.unity3d.com/uploads/Main/ProbStrip.png)  
+
+若要進行隨機抽取  
+
