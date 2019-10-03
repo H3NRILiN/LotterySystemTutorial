@@ -1,6 +1,6 @@
 # ISUTeaching2019_10_2  
 
-![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Banner.png?raw=true)
+![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Picture/Banner.png)
 ## 參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
 ## [下載Unity專案](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.0.zip)  
 
@@ -31,7 +31,7 @@
 接著在100中去隨機抽取一個數字  
 只要任何數字小於等於10,就表示抽中這個物件  
 
-![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Random1.png)
+![](https://github.com/H3NRILiN/ISUTeaching2019_10_2/blob/master/Picture/Random1.png)
 ### 進入今天主題: 
 若今天有多個物品要被抽中,每個物品的機率都不同  
 那麼要如何去執行這個邏輯
