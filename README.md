@@ -6,6 +6,13 @@
 ## [下載Unity專案 : 第一版本(需要2018.2.2f1版以上Unity)](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.2.zip)  
 
 ---
+# 使用方法
+下載Zip檔案
+解壓縮後使用Unity打開
+
+資料夾: Asset/_Done為已完成的場景與腳本
+
+---
 
 
 
