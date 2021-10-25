@@ -4,6 +4,9 @@
 ## 參考文獻: [Adding Random Gameplay Elements](https://docs.unity3d.com/Manual/RandomNumbers.html)  
 ## -最新- [下載Unity專案 : HDRP版本(需要2019.2.7f2版以上Unity)](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v2.2(HDRP%E7%89%88).zip)  
 ## [下載Unity專案 : 第一版本(需要2018.2.2f1版以上Unity)](https://github.com/H3NRILiN/ISUTeaching2019_10_2/archive/v1.2.zip)  
+---
+# 結果影片
+[![查看影片](https://img.youtube.com/vi/iC7-ijbw-WE/0.jpg)](https://youtu.be/iC7-ijbw-WE)
 
 ---
 # 使用方法
